@@ -1,0 +1,5 @@
+- Tạo cơ sở dữ liệu
+- Đổi tên server SQL trong API thành của máy mình
+- Mỗi khi chạy thì publish API bằng convey
+- Bên android thì đổi địa chỉ API đã publish
+- Key google map thì nếu hết hạn phải đổi
